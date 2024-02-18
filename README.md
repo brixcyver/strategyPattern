@@ -1,6 +1,7 @@
 # Strategy Pattern
 
 <hr>
+<br>
 
 ## Problem scenario:
 
