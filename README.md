@@ -28,3 +28,5 @@
 <br>
 
 ## UML Diagram: 
+![Blank diagram](https://github.com/brixcyver/strategyPattern/assets/142380216/67b8b4c9-1e41-440e-b4be-31bc828ae311)
+
